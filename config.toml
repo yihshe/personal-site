@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://yihshe.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Apéro"
@@ -161,7 +161,7 @@ enableEmoji = true
   [[menu.footer]]
     name = "Contact"
     title = "Contact form"
-    url = "/contact/"
+    url = "/contact /"
     weight = 2
   [[menu.footer]]
     name = "Contributors"
