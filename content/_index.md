@@ -4,8 +4,8 @@ subtitle: "Student at ETH Zurich"
 description: "I have recently graduated from ETH with the Master of Science degree in Geomatics."
 images:
   - img/hello.jpg
-image_left: false
-text_align_left: true
+image_left: true
+text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about

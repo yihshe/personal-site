@@ -1,11 +1,12 @@
 ---
+title: "About me"
+description: |
+  About Yihang She.
+show_header: false
+sidebar_left: true
+# Keep this! Do not edit.
 cascade:
   headless: true
-description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
-show_header: true
-sidebar_left: false
-title: About
 ---
 
 ** index doesn't contain a body, just front matter above.
